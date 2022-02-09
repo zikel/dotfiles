@@ -9,14 +9,14 @@
     # ~/.agignore:
     # ~/.aria2/aria2.conf:
     # ~/.axelrc:
-    ~/.bash:
-    ~/.bash_profile:
-    ~/.bashrc:
+    # ~/.bash:
+    # ~/.bash_profile:
+    # ~/.bashrc:
     ~/.dotfiles: ''
     # ~/.emacs.d:
     # ~/.emacs:
     ~/.gitconfig:
-    ~/.gitignore_global:
+    # ~/.gitignore_global:
     # ~/.gnupg/gpg.conf:
     # ~/.haskeline:
     # ~/.hgrc:
@@ -28,7 +28,7 @@
     # ~/.jupyter/jupyter_notebook_config.py: jupyter/jupyter_notebook_config.py
     # ~/.jupyter/nbconfig/notebook.json: jupyter/notebook.json
     # ~/.local/share/jupyter/nbextensions: jupyter/nbextensions
-    ~/.pythonrc:
+    # ~/.pythonrc:
     # ~/.rtorrent.rc:
     # ~/.screenrc:
     ~/.shell:
